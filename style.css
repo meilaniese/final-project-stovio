@@ -1,0 +1,90 @@
+main {
+  width: 476px;
+  margin: 0 auto;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #8572FF;
+  min-height: 100vh;
+}
+
+.text-uppercase {
+  color: #fff;
+  font-size: 40px;
+}
+
+.title-wrap {
+  padding: 15px;
+}
+
+.inner-section {
+  background-color: #fff;
+  border-radius: 30px 30px 0px 0px;
+  padding: 60px 30px;
+}
+
+.features {
+  background: #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 15px 15px;
+}
+
+.feature-link {
+  text-decoration: none;
+  text-align: center;
+  color: initial;
+  display: block;
+}
+
+.feature-text {
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.item-card {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #8572FF;
+border-radius: 14px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  margin: 30px 0;
+  color: #fff;
+  padding: 8px 0;
+}
+
+.item-card1 {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #8572FF;
+border-radius: 14px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  margin: 30px 0;
+  color: #fff;
+}
+
+.img-fluid1 {
+  border-radius: 15px 15px 0px 0px;
+}
+
+.latest-graph-link {
+  color: initial;
+  text-decoration: none;
+  display: block;
+  padding: 8px 0;
+  color: white;
+}
+
+
+.nav-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  background: #8572FF;
+  width: 476px;
+}
+
+.nav-link {
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  color: white;
+}
